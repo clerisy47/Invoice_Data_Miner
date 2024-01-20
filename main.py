@@ -27,13 +27,24 @@ Please retrieve title, invoive number, issue_date, total amount and table.
 MODEL = "gpt-3.5-turbo"
 
 
-def image_to_text(image_path):
+def image_render(image_path):
     pytesseract.pytesseract.tesseract_cmd = r'/opt/homebrew/bin/tesseract'
 
     image = cv2.imread(image_path)
+    gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    return gray_image
 
-    text = pytesseract.image_to_string(image)
+def image_to_text(gray_image):
+    text = pytesseract.image_to_string(gray_image)
     return text
+
+def image_to_bounding_box(gray_image):
+    h, w, _ = gray_image.shape
+    boxes = pytesseract.image_to_boxes(gray_image)
+    for box in boxes.splitlines():
+        b = box.split()
+        x, y, x2, y2 = int(b[1]), int(b[2]), int(b[3]), int(b[4])
+        cv2.rectangle(gray_image, (x, h - y), (x2, h - y2), (0, 255, 0), 2)
 
 def text_to_df(text):
     final_prompt = DEFAULT_PROMPT + text
