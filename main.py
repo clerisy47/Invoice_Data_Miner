@@ -1,7 +1,5 @@
 from openai import OpenAI
 from openai_key import OPENAI_KEY
-import json
-import pandas as pd 
 import pytesseract
 import cv2
 import base64
