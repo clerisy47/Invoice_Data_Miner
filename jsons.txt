@@ -1,6 +1,222 @@
 {
+    "invoice_number": "KBM/15-16/S0229",
+    "invoice_date": "31/08/2015",
+    "total": 310693.00,
+    "table": "S Description of Goods HSN/SAC GST Quantity Rate per Disc. % Amount\nNANO TWIST XTA TATA NANO TWIST XTA, 273SI MPFI BS-IV PETROL ENGINE BS IV (EPAS), 5 SPEED TRANSAXLE, 5 NO WHEEL RDMS, 3 NOS 135/70R12 & 2 NOS 155/65/R12TYRES,\n22230MM W.B. SEATING CAPACITY 3+ DRIVER, HVAC, COLUR BANGRIA RED\n273147.60"
+}
+{
+    "invoice_number": "38",
+    "invoice_date": "19/11/2020",
+    "total": 7000,
+    "table": "S Description of Goods HSN/SAC GST Quantity Rate per Disc. % Amount\n1 Repairs and Maintenance Charges - - 1 - - 7,000.00"
+}
+{
+    "invoice_number": "S1405G202003284",
+    "invoice_date": "07/03/2020",
+    "total": 15576,
+    "table": "S.No. Parts/OP code Part Labor Description HSN/SAC Tax% Qty Rate/Unit Disc Amnt Amount\n1 58101A0A50 PAD KIT-FRONT DISC BRAKE 87083000 14% 1 2949.22 0 2949.21\n5 319224H001 FILTER CARTRIDGE 84219900 9% 1 1608.48 0 1608.48\n4 263202A501 SERVICE KIT-OIL FILTER 84212300 9% 1 360.16 0 360.15\n3 28113A70000 FILTER-AIR CLEANER 84213100 9% 1 271.18 0 271.18\n2 281SN0200H SYNTHETIC ENGINE OIL 10CL 34031900 9% 5.3 703.38 0 3727.91\nLabour and Services Labour Invoice S1405G202003283\n1 A10AECLAVSMT Engine Cleaning/Dressing Large 998729 18% 1 338 0 338\n2 A10AEGRVABSME EGR cleaner 998729 18% 1 800 0 800\n3 A10AMG01PMSS Periodic Maintenance Service ( PMS ) 998729 18% 1 2495 0 2495\n4 A10A0T29DRYVW Dry wash (FOC) 998729 0% 1 0 0 0\n5 A10AASPVMAS3M Service Pro Large 998729 18% 1 400 0 400\n6 A10AVH6PDF0C Pick & Drop on FOC 998729 0% 1 0 0 0"
+}
+{
+    "invoice_number": "123456789-SA",
+    "invoice_date": "14/09/2017",
+    "total": 918.00,
+    "table": "S Description of Goods HSN/SAC GST Quantity Rate per Disc. % Amount\nSamsung Galaxy Note 8 (SM-N950FZKABTU, 64GB, Black) - - 1 No. 724.17 - 724.17\nSamsung Galaxy Note 8 Clear View Standing Cover (EF-ZN950CNEGWW Deep Blue) - - 1 No. 40.83 - 40.83"
+}
+{
+    "invoice_number": "48",
+    "invoice_date": "18/12/2014",
+    "total": 12100,
+    "table": "Product Description HSN/SAC GST Quantity Rate per Disc. % Amount"
+}
+{
+    "invoice_number": "1",
+    "invoice_date": "07/09/2015",
+    "total": 349.85,
+    "table": "Description Quantity Rate Options Total\nIn-flight Pilot Training 05 $49.99 T E $249.95\nPreflight Briefing 05 $09.99 T E $49.95\nPost Flight Briefing and Evaluation 05 $09.99 T E $49.95"
+}
+
+{
+    "invoice_number": "2017-40",
+    "invoice_date": "20/07/2017",
+    "total": 4899.36,
+    "table": "No. Name Qty Rate Disc. Taxable Amount IGST % IGST Amt CGST % CGST Amt SGST % SGST Amt Cess\n1 GST Registration - Standard Package 1 4152 0 4152 0 9 373.68 9 373.68 9 373.68 0"
+}
+{
+    "invoice_number": "2022/000323",
+    "invoice_date": "07/07/2022",
+    "total": 141.90,
+    "table": "Product Description Price Quantity Tax Rate VAT Amount\nBeanie with Logo SKU: Woo-beanie-logo $20.00 2 21 % $4.20 $48.40\nBelt SKU: woo-belt $55.00 1 16 % $8.80 $63.80\nCap SKU: woo-cap $16.00 1 10 % $1.60 $17.60"
+}
+
+{
+    "invoice_number": "CIV-000676 000007-1",
+    "invoice_date": "30/11/2019",
+    "total": 321113.52,
+    "table": "ITEM DESCRIPTION QUANTITY SALES PRICE DISCOUNT AMOUNT\nD011 Lens 2 Each 2 0 4.00\nL0001 Mid-Range Speaker 35 Each 500 0 17,500.00\nP0001 Acoustic Foam Panel 117 Each 37 0 4,329.00\nD0003 Standard Speaker 23 Each 220 0 5,060.00\nT0001 Speaker cable 10 65 Each 500 0 32,500.00\nD0004 High End Speaker 12 Each 2000 0 24,000.00\nT0004 Television M1270 37\" Silver 53 Each 350 0 18,550.00\nT0002 Projector Television 23 Each 3750 0 86,250.00\nT0005 Television HDTV X950 52\" White 33 Each 2890 0 95,370.00\nT0003 Surround Sound Receiver 56 Each 450 0 25,200.00"
+}
+""
+{
+    "invoice_number": "US-001",
+    "invoice_date": "11/02/2019",
+    "total": 154.06,
+    "table": "Qty Description Unit Price Amount\n1 Front and rear brake cables 100.00 100.00\n2 New set of pedal arms 15.00 30.00\n3 Labor 3hrs 5.00 15.00"
+}
+{
+    "invoice_number": "GS00000001",
+    "invoice_date": "01/01/2008",
+    "total": 467.50,
+    "table": "Product Description Cost Qty Disc Total\nItem description $500.00 1 15% $425.00\nTotal Cost (including GST) $467.50"
+}
+{
+    "invoice_number": "001",
+    "invoice_date": "15/10/2018",
+    "total": "2550 USD",
+    "table": "DESCRIPTION HOURS RATE TOTAL\nWEDDING PHOTOSHOOT IN WACO, TEXAS AT THE WOOD 8 $150/HR $1,200 USD\nHOMESTEAD BARNHOUSE\nPHOTO EDITING FOR UP TO 30 IMAGES 4 $150/HR $600 USD\nDIGITAL IMAGES UPLOADED TO DROPBOX FOR CLIENT 1 $150/HR $150 USD\nREVIEW\nOTHER SERVICES 4 $150/HR $600 USD"
+}
+{
+    "invoice_number": "CT00000001",
+    "invoice_date": "10/10/2020",
+    "total": 121000.00,
+    "table": "# ITEM NAME QTY PRICE/ DISCOUNT/ GST AMOUNT\n  UNIT UNIT\n1 Back-end services 80 hrs ₹2000.00 ₹0.00 ₹0.00 ₹80,000.00\n2 AWS Maintenance and set-up 40 hrs ₹2000.00 ₹0.00 ₹0.00 ₹40,000.00"
+}
+{
+    "invoice_number": "GE/3847/20-2013",
+    "invoice_date": "10/10/2020",
+    "total": 3600,
+    "table": "S Description of Goods HSN/SAC GST Quantity Rate per Disc. % Amount\nRate\nHerman Miller Executive Chair 34929 12% 12 Pcs ₹100.00 ₹0.00 ₹1,200.00\nVG248 QE 24” Monitor 34174 12% 12 Pcs ₹100.00 ₹0.00 ₹1,200.00"
+}
+{
+    "invoice_number": "GE/3847/20-2013",
+    "invoice_date": "10/10/2020",
+    "total": 10440,
+    "table": [
+        {
+            "item_name": "Wireless Mouse Robots",
+            "hsn_sac": 34895,
+            "quantity": "8 Pcs",
+            "rate_per_unit": 1000.00,
+            "discount_percent": 0.0,
+            "gst_rate": "12%",
+            "amount": 8960.00
+        },
+        {
+            "item_name": "Herman Miller Executive Chair",
+            "hsn_sac": 34895,
+            "quantity": "4 Pcs",
+            "rate_per_unit": 1000.00,
+            "discount_percent": 0.0,
+            "gst_rate": "12%",
+            "amount": 1480.00
+        }
+    ]
+}
+{
+    "invoice_number": "1227",
+    "invoice_date": "10/09/2020",
+    "total": 2231.96,
+    "table": "DATE EMPLOYEE DESCRIPTION HOURS RATE AMOUNT\n9/21/2020 Jason Acosta Pickup Redline Corrections 0.75 $105.00 $78.75\n9/21/2020 Steven Cohen Pickup Redline Corrections 0.75 $195.00 $146.25\n9/25/2020 Scott Jackson Pickup Redline Corrections 2.00 $275.00 $550.00\n10/9/2020 Doug Donovan Client Meeting 2.00 $195.00 $390.00\n10/9/2020 Alice Shapiro Elevations 7.00 $150.00 $1,050.00"
+}
+""
+{
+    "invoice_number": "1",
+    "invoice_date": "25/04/2019",
+    "total": 1010.00,
+    "table": "Description Amount\nDJ & MC Performance Duration: 5 Hour $200.00\nEquipment & Lightning Number of Participants: 51-80 $300.00\nVideography Duration: 5 Hour $130.00\nPhoto Booth Duration: 5 Hour $380.00"
+}
+""
+""
+{
+    "invoice_number": "CI-10012014",
+    "invoice_date": "10/07/2014",
+    "total": 80000,
+    "table": "DESCRIPTION QUANTITY TOTAL PRICE\nDOORES AND WINDOWS ACCESORY 2,000.00 Pcs 100,000.00 USD"
+}
+{
+    "invoice_number": "37",
+    "invoice_date": "19/11/2020",
+    "total": 93000,
+    "table": "S Description of Goods Quantity Rate per Amount\n1 Asus 16.6 inch Monitor 15 Nos 6,200.00 Nos 93,000.00"
+}
+""
+The requested information cannot be completely retrieved from the given invoice image, as the invoice number is not visible. However, the date format complies with your specifications, and I can provide the other details available:
+
+{
+    "invoice_number": "",
+    "invoice_date": "18/07/2022",
+    "total": 2860,
+    "table": "ITEM NAME UNITS RATE TOTAL\nItem name 2 $450.00 $900.00\nItem name 1 $300.00 $300.00\nItem name 3 $500.00 $1,500.00\nSubtotal $2,700.00\nDiscount -$100.00\n10.0% Tax $260.00\nTotal Amount $2,860.00 USD"
+}
+{
+    "invoice_number": "0219-0001",
+    "invoice_date": "03/07/2015",
+    "total": 70.00,
+    "table": "Quantity Item Description Vendor Unit Price Total\n1 1 hr massage Gift of massage therapy to recover from stress of conversation MAA 70.00 70.00"
+}
+{
     "invoice_number": "4631508",
     "invoice_date": "13/05/2013",
     "total": 1445.99,
-    "table": " Line No. Description Quantity Unit Price Total Amount\n 001 2088G4S22A1M5B4E5T1Q4 1 EA 1,435.20 1,435.20\n 2088 Pressure Transmitter\n Export HTS:9026204000\n LGABITB ECONECN:EAR99\n COUNTRY: UNITED STATES\n COO(US): Tag: Serial Number: 0521160"
+    "table": "Line No. Line No. Decription Quantity Unit Price Total Amount\n001 2088G4S22A1M5B4ES7T104 PRESSURE TRANSMITTER 1 EA 1,435.20 1,435.20\n"
+}
+{
+    "invoice_number": "22011",
+    "invoice_date": "01/08/2020",
+    "total": 436.45,
+    "table": "Date By Services Hours Rates Amount 08/01/2020 JS A104 - Review/analyze: Reviewing the discovery that was sent over by Paul 2.30 $125.00/hr $287.50 08/01/2020 JS A105 - Communicate (in firm): Discussed strategy for case moving forward with Beth and Monique 0.84 $125.00/hr $105.00 Date By Expenses Amount 08/01/2020 JS E101 - Copying: Had copies made of the outline proposal $43.95 Total Hours 3.14 hrs Total Labor $392.50 Total Expenses $43.95 Total Invoice Amount $436.45"
+}
+{
+    "invoice_number": "CRM12345",
+    "invoice_date": "20/09/2012",
+    "total": 11345.50,
+    "table": "Quantity Description Unit Price Ext Price\n1 Certificate OWN C, certificate #OWN N-180 2,820.00 2,820.00\n1 ASME Consultant(s) Expenses 1,654.00 1,654.00\n1 ASME Consultant(s) Services 6,961.50 6,961.50"
+}
+{
+    "invoice_number": "25",
+    "invoice_date": "01/03/2017",
+    "total": 10.60,
+    "table": "DESCRIPTION QUANTITY PRICE SALES TAX AMOUNT\nBlack Tea 2.00 $5.00 Yes $10.00"
+}
+""
+{
+    "invoice_number": "#00121",
+    "invoice_date": "08/04/2015",
+    "total": 270.00,
+    "table": "Description Qty Unit Price Amount\nBrochure Design 1.00 50.00 50.00\nPamphlet Design 1.00 100.00 100.00\nWeb Banner Design 1.00 120.00 120.00"
+}
+{
+    "invoice_number": "1",
+    "invoice_date": "06/07/2012",
+    "total": 2407.00,
+    "table": "QUANTITY DESCRIPTION UNIT PRICE AMOUNT\n120 Widgets 10.00 $1,200.00\n1,000 Tin Badges 1.00 1,000.00"
+}
+""
+
+""
+""
+""
+
+Unfortunately, the quality of the image provided is too low to accurately extract the required details such as the title, invoice number, issue date, total amount, and table from the invoice. Without clearer text or higher resolution, it's not possible to confidently give you the requested information in the JSON format specified.
+{
+    "invoice_number": "0001",
+    "invoice_date": "10/02/2020",
+    "total": 5475,
+    "table": "Description Quantity Unit Price Cost\nRXT-1 (1st installment, 10% of total purchase) 1 $5,475.00 $5,475.00"
+}
+{
+    "invoice_number": "100",
+    "invoice_date": "27/02/2014",
+    "total": 635.90,
+    "table": "Product Description Quantity Unit price Subtotal\nApple®-iPad® with Retina® display Wi-Fi- 32GB - White 1 $499.00 $499.00\nRecreational Flying Headset 1 $129.95 $129.95"
+}
+{
+    "invoice_number": "BS 10009",
+    "invoice_date": "11/06/2013",
+    "total": 120.00,
+    "table": "Product Price Quantity Line Total\nFlying Ninja £12.00 6 £72.00\nHappy Ninja £18.00 1 £18.00\nWoo Ninja £15.00 2 £30.00"
+}
+{
+    "invoice_number": "30037",
+    "invoice_date": "01/10/2017",
+    "total": 3850,
+    "table": "Quantity Description of Goods Unit Price Amount\n10 AEROCHAIR-E1 500.00 5000.00\n5 CHAIR-SW 478.00 2390.00\n5 CHAIR-SW4 699.00 3495.00"
 }
