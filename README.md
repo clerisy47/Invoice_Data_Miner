@@ -5,6 +5,6 @@ This repo is part of Docsumo's Dataverse competition. Full credit for the datase
 
 ## Installation
 To install the required dependencies, run the following command:
-'''
+```
 pip install -r requirements.txt
-'''
+```
