@@ -54,7 +54,12 @@
     "total": 321113.52,
     "table": "ITEM DESCRIPTION QUANTITY SALES PRICE DISCOUNT AMOUNT\nD011 Lens 2 Each 2 0 4.00\nL0001 Mid-Range Speaker 35 Each 500 0 17,500.00\nP0001 Acoustic Foam Panel 117 Each 37 0 4,329.00\nD0003 Standard Speaker 23 Each 220 0 5,060.00\nT0001 Speaker cable 10 65 Each 500 0 32,500.00\nD0004 High End Speaker 12 Each 2000 0 24,000.00\nT0004 Television M1270 37\" Silver 53 Each 350 0 18,550.00\nT0002 Projector Television 23 Each 3750 0 86,250.00\nT0005 Television HDTV X950 52\" White 33 Each 2890 0 95,370.00\nT0003 Surround Sound Receiver 56 Each 450 0 25,200.00"
 }
-""
+{
+    "invoice_number": "",
+    "invoice_date": "09/07/2020",
+    "total": ,
+    "table": ""
+}
 {
     "invoice_number": "US-001",
     "invoice_date": "11/02/2019",
@@ -89,26 +94,7 @@
     "invoice_number": "GE/3847/20-2013",
     "invoice_date": "10/10/2020",
     "total": 10440,
-    "table": [
-        {
-            "item_name": "Wireless Mouse Robots",
-            "hsn_sac": 34895,
-            "quantity": "8 Pcs",
-            "rate_per_unit": 1000.00,
-            "discount_percent": 0.0,
-            "gst_rate": "12%",
-            "amount": 8960.00
-        },
-        {
-            "item_name": "Herman Miller Executive Chair",
-            "hsn_sac": 34895,
-            "quantity": "4 Pcs",
-            "rate_per_unit": 1000.00,
-            "discount_percent": 0.0,
-            "gst_rate": "12%",
-            "amount": 1480.00
-        }
-    ]
+    "table": "item_name hsn_sac quantity rate_per_unit discount_percent gst_rate amount\n Wireless Mouse Robots 34895 8 pcs 1000.00 0.0 12% 8960.00\nHerman Miller Executive Chair 34895 4 Pcs 1000.00 0.0 12% 1480.00"
 }
 {
     "invoice_number": "1227",
@@ -116,15 +102,31 @@
     "total": 2231.96,
     "table": "DATE EMPLOYEE DESCRIPTION HOURS RATE AMOUNT\n9/21/2020 Jason Acosta Pickup Redline Corrections 0.75 $105.00 $78.75\n9/21/2020 Steven Cohen Pickup Redline Corrections 0.75 $195.00 $146.25\n9/25/2020 Scott Jackson Pickup Redline Corrections 2.00 $275.00 $550.00\n10/9/2020 Doug Donovan Client Meeting 2.00 $195.00 $390.00\n10/9/2020 Alice Shapiro Elevations 7.00 $150.00 $1,050.00"
 }
-""
+{
+    "invoice_number": "",
+    "invoice_date": "08/07/2012",
+    "total": 39.65,
+    "table": "DATE EXPLANATION OF ACTIVITY CHARGES INSURANCE PENDING PAYMENTS PATIENT AMOUNT DUE\n05/18/12 DATE OF SERVICE\n07/08/12 Balance Forward 724.65\n07/19/12 PAYMENT CHECK;1313 -35.00\nBilled Charges to Date 7149.85\nReceipts to date 2112.06\nAdjustments to date 4998.14\nInsurance pending 0.00"
+}
 {
     "invoice_number": "1",
     "invoice_date": "25/04/2019",
     "total": 1010.00,
     "table": "Description Amount\nDJ & MC Performance Duration: 5 Hour $200.00\nEquipment & Lightning Number of Participants: 51-80 $300.00\nVideography Duration: 5 Hour $130.00\nPhoto Booth Duration: 5 Hour $380.00"
 }
-""
-""
+{
+    "invoice_number": "1",
+    "invoice_date": "19/11/2020",
+    "total": 62000.00,
+    "table": "Description of Goods Quantity Rate per Amount\nAsus 16.6 inch Monitor 10 Nos 6200.00 Nos 62000.00"
+}
+{
+    "invoice_number": "982093",
+    "invoice_date": "",
+    "total": 2112.25,
+    "table": "DESCRIPTION QTY. PRICE TOTAL\nWeb Design 1 $ 200.00 $ 200.00\nBranding 1 $ 350.00 $ 350.00\nGraphic Design 27 $ 55.00 $ 1485.00\nWeb Development 1 $ 450.00 $ 450.00"
+}
+
 {
     "invoice_number": "CI-10012014",
     "invoice_date": "10/07/2014",
@@ -137,8 +139,12 @@
     "total": 93000,
     "table": "S Description of Goods Quantity Rate per Amount\n1 Asus 16.6 inch Monitor 15 Nos 6,200.00 Nos 93,000.00"
 }
-""
-The requested information cannot be completely retrieved from the given invoice image, as the invoice number is not visible. However, the date format complies with your specifications, and I can provide the other details available:
+{
+    "invoice_number": "",
+    "invoice_date": "06/12/2010",
+    "total": 6326.00,
+    "table": "Part No/Job Code Particulars Type UoM Qty Rate(Rs) Dis.(Rs)\Item Dis.% VAT% VAT(Rs) Amount(Rs)\n721030 ADJUST DOOR LINKS FOR EACH DOOR(CHECK DOOR LOCK AND SETTING DONE) FREE SERVICE\nSTDCHK STANDARD CHECKS(TEFLON COATING DONE) PAID 4650.00\nFREE FIRST FREE SERVICE(GENRAL CHECK UPDONE) FREE SERVICE\nSTDCHK STANDARD CHECKS(SERVICE PLUS) PAID 220.00\nSTDCHK STANDARD CHECKS(AC FUNGUS) PAID 421.00"
+}
 
 {
     "invoice_number": "",
@@ -176,7 +182,22 @@ The requested information cannot be completely retrieved from the given invoice 
     "total": 10.60,
     "table": "DESCRIPTION QUANTITY PRICE SALES TAX AMOUNT\nBlack Tea 2.00 $5.00 Yes $10.00"
 }
-""
+{
+    "invoice_number": "21",
+    "invoice_date": "14/12/2016",
+    "total": 775.00,
+    "table": "Description of Goods Tariff Code Country of Origin Quantity Unit £ Total £\n
+            AL-D-6 Alison Tunic - Size: 6 100% Cotton 62044220 United Kingdom 1 £25.00 £25.00\n
+            AL-D-8 Alison Tunic - Size: 8 100% Cotton 62044220 United Kingdom. 2 £25.00 £50.00\n
+            AL-D-10 Alison Tunic - Size: 10. 100% Cotton 62044220 United Kingdom 2 £25.00 £50.00\n
+            AL-D-12 Alison Tunic - Size: 12 100% Cotton 62044220 United Kingdom 2 £25.00 £50.00\n
+            AL-D-14 Alison Tunic - Size: 14 100% Cotton 62044220 United Kingdom 4 £25.00 £100.00\n
+            AN-D-6 Angie Dress - Size: 6 100% Cotton 62044220 United Kingdom 2 £25.00 £50.00\n
+            AN-D-8 Angie Dress - Size: 8 100% Cotton 62044220 United Kingdom 4 £25.00 £100.00\n
+            AN-D-10 Angie Dress - Size: 10 100% Cotton 62044220 United Kingdom 6 £25.00 £150.00\n
+            AN-D-12 Angie Dress Size: 12 100% Cotton 62044220 United Kingdom 6 £25.00 £150.00\n
+            AN-D-14 Angie Dress Size: 14 100% Cotton 62044220 United Kingdom 2 £25.00 £50.00"
+}
 {
     "invoice_number": "#00121",
     "invoice_date": "08/04/2015",
@@ -189,13 +210,50 @@ The requested information cannot be completely retrieved from the given invoice 
     "total": 2407.00,
     "table": "QUANTITY DESCRIPTION UNIT PRICE AMOUNT\n120 Widgets 10.00 $1,200.00\n1,000 Tin Badges 1.00 1,000.00"
 }
-""
-
-""
-""
-""
-
-Unfortunately, the quality of the image provided is too low to accurately extract the required details such as the title, invoice number, issue date, total amount, and table from the invoice. Without clearer text or higher resolution, it's not possible to confidently give you the requested information in the JSON format specified.
+{
+    "invoice_number": "DB-12657",
+    "invoice_date": "18/06/2017",
+    "total": 50340.00,
+    "table": "Product Code Description of Goods Unit Quantity Price Amount\n2216 Lightbulb 2 x 37 watt 1000 4.00 4000.00\n2218 Elecwire 20m 450 28.00 12600.00\n2226 Cable wire 40m 70 482.00 33740.00"
+}
+{
+    "invoice_number": "5559-789",
+    "invoice_date": "05/02/2005",
+    "total": 1150,
+    "table": "Full Description of Goods 8 Customs Commodity Code 9 Country of Manufacture 10 Qty. 11 Unit Value 12 Subtotal Value and Currency 13\n
+            1. Populated Printed Circuit Board used in a Word Processor. It contains the following components: CPU, DRAM; HTS #8473.10.; Manufactured in South Korea. 10 Pcs. $USD 100.00 $USD 1,000\n
+            2. Laser Imaging Assembly for a Laser Printer incorporating a toner receptacle unit and a cleaning unit; HTS # 8473.30.; Manufactured in Mexico. 2 Pcs. SUSD 50.00 $USD100.00"
+}
+{
+    "invoice_number": "SOtt306386",
+    "invoice_date": "",
+    "total": 4763.45,
+    "table": "Art number Description HTS Code Country of Origin Units Unit price Total Value\n
+            56892 WOVEN BACKPACK 100% NYLON 5202.92.3120 VIETNAM 10 48.11 $481.10\n
+            56960 WOVEN TRAVEL LUGGAGE 100% NYLON 5202.92.3131 VIETNAM 11 120.28 $1323.08\n
+            56061 WOVEN BACKPACK 100% NYLON 5202.92.3120 VIETNAM 1 61.96 $61.96\n
+            56963 WOVEN SHOULDER BAG 100% NYLON 5202.92.3120 VIETNAM 1 33.53 $33.53\n
+            56964 WOVEN SUNG BAG 100% NYION 5202.92.3120 VIETNAM 3 48.11 $144.33\n
+            56601 WOVEN BACKPACK 100% NYLON 5202.92.3120 VIETNAM 4 61.96 $247.84\n
+            58602 WOVEN BACKPACK 100% NYLON 5202.92.3120 VIETNAM 20 80.92 $1618.40\n
+            58703 WOVEN LARGE POUCH 100% NYLON 5202.92.9100 VIETNAM 1 11.66 $11.66\n
+            56721 WOVEN CUFF CASE 100% NYLON 5202.92.9100 CHINA 25 8.38 $209.50\n
+            58722 WOVEN BOTTLE CARRIER 100% NYLON 5202.92.9100 CHINA 3 11.67 $35.01\n
+            58724 WOVEN SINGLE GUN CASE 100% NYLON 5202.22.8100 CHINA 6 14.58 $87.48\n
+            59002 WOVEN HOLSTER POUCH 100% NYLON 5202.92.9100 CHINA 1 9.48 $9.48\n
+            55008 WOVEN KNEE PADS 100% NYLON 5306.97.9379 CHINA 1 6.20 $6.20\n
+            59341 TAC AK2 LEATHER GLOVES 100% NYLON 5203.29.3010 CHINA 5 24.06 $120.30\n
+            59354 MN GOATSKIN GLOVES 100% NYLON 5203.29.6677 CHINA 1 34.26 $34.26\n
+            59509 BELT SUPPORT PLATE WOVEN CARBON FIBER 6815.90.0100 CHINA 6 43.74 $262.44\n
+            59552 TOU BELT 1.75" 103% NYLON/PLASTIC BUCKLE 6217.20.5830 CHINA 8 8.38 $67.04\n
+            50552 TOU SELT 1.78" 103% NVLON/PLASTIC BUCKLE 6287.10 9990 CHINA 1 9.84 $9.84\n"
+}
+{
+    "invoice_number": "",
+    "invoice_date": "26/09/2018",
+    "total": 200.00,
+    "table": "PIECES PACKAGE DIMENSIONS DESCRIPTION WEIGHT VOLUMEN\n10 LD-11 PALLET (IATA TYPE 6) 124.8 x 60.24 x 62.99 in paper 500.000kg 77.600m3\n50 BOX 10 x 20 x 25 in Locomotive Parts 1020.60kg 4.100ft3\n500 BOX 10 x 20 x 25 in Iphone x 10206.000kg 41.000ft3\n50 PALLET 48 x 54 x 25 in motor 15000.000kg 53.100ft3\nCODE DESCRIPTION QTY UNIT RATE AMOUNT\nIL INLAND FREIGHT 1000 1 200.00 200.00"
+}
 {
     "invoice_number": "0001",
     "invoice_date": "10/02/2020",
